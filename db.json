@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "summary": "Communication",
+      "description": "Complete the ed word",
+      "dueDate": "2021-04-28",
+      "priority": "Medium",
+      "createdOn": "2021-04-18",
+      "status": true,
+      "id": 2
+    },
+    {
+      "summary": "Assignment",
+      "description": "Complete the ed word",
+      "dueDate": "2021-04-22",
+      "priority": "Low",
+      "createdOn": "2021-04-18",
+      "status": true,
+      "id": 3
+    },
+    {
+      "summary": "Bank",
+      "description": "Send Bank Data",
+      "dueDate": "2021-04-30",
+      "priority": "Medium",
+      "createdOn": "2021-04-21",
+      "status": true,
+      "id": 6
+    },
+    {
+      "summary": "Todo app assignment",
+      "description": "Complete the app",
+      "dueDate": "2021-04-22",
+      "priority": "High",
+      "createdOn": "2021-04-21",
+      "status": false,
+      "id": 8
+    },
+    {
+      "summary": "Sleep on time",
+      "description": "Sleep on time",
+      "dueDate": "2021-04-23",
+      "priority": "Medium",
+      "createdOn": "2021-04-21",
+      "status": false,
+      "id": 10
+    },
+    {
+      "summary": "Shopping time",
+      "description": "Go to shopping",
+      "dueDate": "2021-04-30",
+      "priority": "High",
+      "createdOn": "2021-04-21",
+      "status": false,
+      "id": 11
+    }
+  ]
+}
