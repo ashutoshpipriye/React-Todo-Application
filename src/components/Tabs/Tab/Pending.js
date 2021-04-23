@@ -156,7 +156,7 @@ const Pending = (props) => {
                 <thead>
                     <tr>
                         <th onClick={() => props.sortFunc("summary")}>Summary</th>
-                        <th onClick={() => props.sortFunc("priority")}>Priority</th>
+                        <th onClick={() => props.sortPriority("priority")}>Priority</th>
                         <th onClick={() => props.sortFunc("createdOn")}>Created On</th>
                         <th onClick={() => props.sortFunc("dueDate")}>Due Date</th>
                         <th>Actions</th>
